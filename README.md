@@ -41,5 +41,6 @@ bash
 Copy
 Edit
 streamlit run app.py
+
 📸 Screenshots
 <img width="1907" height="902" alt="image" src="https://github.com/user-attachments/assets/c7cc94de-4b75-4ad5-a464-6f15c4c5caa1" />
